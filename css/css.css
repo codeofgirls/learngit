@@ -1,0 +1,12 @@
+body{
+    background: #eee;
+}
+.test{
+    height: 10%;
+    color: #222222;
+    font: normal 14px/30px small-caption;
+    overflow: hidden;
+    border-right: 1px solid #dddd00;
+    background: #000;
+    margin: 10px 20px 30px 40px;
+}
